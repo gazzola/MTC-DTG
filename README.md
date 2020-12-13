@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/gazzola/MTC-DTG-privado)
 
-Nesse repositório se encontra os códigos fontes e os datasets do artigo *Text Complexity of Open Educational Resources in Portuguese: Mixing Written and Spoken Registers in a Multi-task Approach*. Com isso, é possível qualquer pessoa fazer as replicações dos experimentos realizados no artigo (submetido e ainda não publicado em Journal Language Resources and Evaluation [LREV] ).
+This repository contains the source codes and datasets used in the article *Text Complexity of Open Educational Resources in Portuguese: Mixing Written and Spoken Registers in a Multi-task Approach*. Thus, it is possible for anyone to replicate the experiments carried out in the article (submitted for evaluation in the Journal Language Resources and Evaluation [LREV]).
 
 # Corpora
 + corpora
@@ -12,7 +12,8 @@ Nesse repositório se encontra os códigos fontes e os datasets do artigo *Text 
 ![tabelas](https://user-images.githubusercontent.com/821242/102003894-32f71700-3cea-11eb-97ac-60ea2621aefc.PNG)
 
 # Códigos
-Códigos principais foram desenvolvidos na linguagem Python 3.7, Tensorflow, Keras 2.0, Pandas e outras bibliotecas. Encontram-se em:
+Core codes were developed in Python 3.7, Tensorflow, Keras 2.0, Pandas and other libraries. They are in:
+
 + **Multitask Learning**
   + mtc_dtg_full.py
   + mtc_dtg_simplex.py
@@ -38,5 +39,5 @@ For mtc_dtg_full:
 $ python mtc_dtg_simplex.py
 ```
 # Citação
-`Submetido no Journal LREV para publicação`
+Submitted to LREV journal for evaluation
 
