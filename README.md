@@ -21,7 +21,7 @@ Core codes were developed in Python 3.7, Tensorflow, Keras 2.0, Pandas and other
   + single_task_book.py
   + single_task_transcriptions.py
 
-#### Rodar
+#### Run
 For production release - single_task_book:
 ```sh
 $ python single_task_book.py
@@ -38,6 +38,6 @@ For mtc_dtg_full:
 ```sh
 $ python mtc_dtg_simplex.py
 ```
-# Citação
+# Cite
 Submitted to LREV journal for evaluation
 
