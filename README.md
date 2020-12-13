@@ -6,7 +6,7 @@ Nesse repositório se encontra os códigos fontes e os datasets do artigo. Com i
 
 # Corpora
 + corpora
-  + books (D3)
+  + books
   + transcriptions
 
 ![tabelas](https://user-images.githubusercontent.com/821242/102003894-32f71700-3cea-11eb-97ac-60ea2621aefc.PNG)
