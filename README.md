@@ -2,13 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/gazzola/MTC-DTG-privado)
 
-------------
-
-
 Nesse repositório se encontra os códigos fontes e os datasets do artigo. Com isso, é possível qualquer pessoa fazer as replicações dos experimentos realizados no artigo (submetido e ainda não publicado em Journal Language Resources and Evaluation [LREV] ).
-
-------------
-
 
 # Corpora
 + corpora
