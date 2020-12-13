@@ -1,6 +1,6 @@
 # MTC-DTG and MTC-DTG-Simplex
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![unnamed](https://user-images.githubusercontent.com/821242/102004270-f2999800-3ced-11eb-81ea-91818c582e22.jpg)
 
 ------------
 
