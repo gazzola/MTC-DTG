@@ -38,5 +38,5 @@ For mtc_dtg_full:
 $ python mtc_dtg_simplex.py
 ```
 # Citação
-``aguardando´´
+`Submetido no Journal LREV para publicação`
 
