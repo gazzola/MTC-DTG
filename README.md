@@ -10,6 +10,7 @@ This repository contains the source codes and datasets used in the article *Text
   + transcriptions
 
 ![tabelas](https://user-images.githubusercontent.com/821242/102003894-32f71700-3cea-11eb-97ac-60ea2621aefc.PNG)
+![tabelas](https://github.com/gazzola/MTC-DTG-privado/blob/main/corpora/transcriptions/tabela_transcricoes.PNG?raw=true)
 
 # Codes
 Core codes were developed in Python 3.7, Tensorflow, Keras 2.0, Pandas and other libraries. They are in:
