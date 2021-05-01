@@ -8,6 +8,7 @@ This repository contains the source codes and datasets used in the article *Text
 + corpora
   + books
   + transcriptions
+  + MEC-RED resources
 
 ![tabelas](https://user-images.githubusercontent.com/821242/102003894-32f71700-3cea-11eb-97ac-60ea2621aefc.PNG)
 ![tabelas](https://github.com/gazzola/MTC-DTG-privado/blob/main/corpora/transcriptions/tabela_transcricoes.PNG?raw=true)
