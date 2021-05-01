@@ -39,5 +39,5 @@ For mtc_dtg_full:
 $ python mtc_dtg_simplex.py
 ```
 # Cite
-Submitted to LREV journal for evaluation
+Submitted to the Language Resources and Evaluation journal.
 
