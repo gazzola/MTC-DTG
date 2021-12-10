@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/gazzola/MTC-DTG-privado)
 
-This repository contains the source codes and datasets used in the article *Text Complexity of Open Educational Resources in Portuguese: Mixing Written and Spoken Registers in a Multi-task Approach*. Thus, it is possible for anyone to replicate the experiments carried out in the article (submitted for evaluation in the Journal Language Resources and Evaluation [LREV]).
+This repository contains the source codes and datasets used in the article *Text Complexity of Open Educational Resources in Portuguese: Mixing Written and Spoken Registers in a Multi-task Approach*. Thus, it is possible for anyone to replicate the experiments carried out in the article (submitted for evaluation in the Journal Language Resources and Evaluation [LREV] - Springer Nature).
 
 # Corpora
 + corpora
