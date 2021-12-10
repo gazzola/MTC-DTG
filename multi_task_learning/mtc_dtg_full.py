@@ -6,6 +6,8 @@ and with three tasks, called Multi-task approach to Text Complexity using Differ
 In this work, we assessed the effect of class balancing with an oversampling and undersampling approach.
 We have also used data augmentation techniques, which were necessary for MTL architectures to have equal data entry.
 
+The files used, such as dataset1_dataset2.csv, books.txt, metrix_3.txt, among others. These are metrics extracted from the corpora using NILC Metrics.
+
 Example:
         To run this experiment, you must extract the metrics, if you haven't already,
         and insert in a CSV and use the names of the features presented in
