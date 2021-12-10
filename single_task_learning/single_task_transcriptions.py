@@ -7,7 +7,7 @@ and with three tasks, called Multi-task approach to Text Complexity using Differ
 In this work, we assessed the effect of class balancing with an oversampling and undersampling approach.
 We have also used data augmentation techniques, which were necessary for MTL architectures to have equal data entry.
 
-The files used, such as books_only_metrics_run.txt, dataset1_dataset2.csv, books.txt, metrict3_.txt, among others. These are metrics extracted from the corpora using NILC Metrics.
+The files used, such as books_only_metrics_run.txt, dataset1_dataset2.csv, books.txt, metrics.txt, among others. These are metrics extracted from the corpora using NILC Metrics.
 
 Example:
         To run this experiment, you must extract the metrics, if you haven't already,
@@ -51,7 +51,7 @@ import collections
 pd.set_option('display.max_colwidth', -1)
 
 # Load dataset
-df = pd.read_csv("metrict3_.txt", delimiter='\t', header=0)
+df = pd.read_csv("metrics.txt", delimiter='\t', header=0)
 
 # 55 metrics
 feats=['adjective_ratio', 'function_words', 'words_per_sentence', 'noun_ratio', 'words', 'pronoun_ratio', 'cw_freq', 'hypernyms_verbs', 'brunet', 'ttr', 'conn_ratio', 'tmp_pos_conn_ratio', 'adjectives_ambiguity', 'nouns_ambiguity', 'dep_distance', 'content_density', 'words_before_main_verb', 'anaphoric_refs', 'adj_arg_ovl', 'prepositions_per_clause', 'prepositions_per_sentence', 'infinitive_verbs', 'inflected_verbs', 'non-inflected_verbs', 'concretude_mean', 'concretude_std', 'concretude_25_4_ratio', 'concretude_4_55_ratio', 'content_word_diversity', 'content_word_standard_deviation', 'dalechall_adapted', 'familiaridade_std', 'familiaridade_25_4_ratio', 'familiaridade_4_55_ratio', 'familiaridade_55_7_ratio', 'function_word_diversity', 'idade_aquisicao_std', 'idade_aquisicao_1_25_ratio', 'idade_aquisicao_4_55_ratio', 'imageabilidade_25_4_ratio', 'noun_diversity', 'pronouns_standard_deviation', 'indicative_imperfect_ratio', 'indicative_present_ratio', 'indicative_preterite_perfect_ratio', 'oblique_pronouns_ratio', 'relative_pronouns_ratio', 'subordinate_clauses', 'coreference_pronoum_ratio', 'sentence_length_min', 'std_noun_phrase', 'verb_diversity', 'verbs_max', 'verbs_standard_deviation', 'min_freq_brwac']
