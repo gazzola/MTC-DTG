@@ -1,5 +1,5 @@
-# Corpora - Samples of texts for Textual Complexity for School Stages in the Brazilian Educational System
-Copora includes samples of textbooks from the following sources:
+# Corpus of Didactic Texts for School Grades in the Brazilian Educational System
+Corpus includes samples of textbooks from the following sources:
 - For Your Child to Read (PSFL)
 - Zero Hora section of the newspaper written for children 8 to 11 years old
 - SAEB exams
