@@ -41,5 +41,20 @@ For mtc_dtg_full:
 $ python mtc_dtg_simplex.py
 ```
 # Cite
-Submitted to the Language Resources and Evaluation journal.
+Gazzola, M., Leal, S., Pedroni, B. et al. Text complexity of open educational resources in Portuguese: mixing written and spoken registers in a multi-task approach. Lang Resources & Evaluation 56, 621–650 (2022). https://doi.org/10.1007/s10579-021-09571-3
+
+```bibtex
+@article{Gazzola2022,
+  title={Text complexity of open educational resources in Portuguese: mixing written and spoken registers in a multi-task approach},
+  author={Gazzola, M. and Leal, S. and Pedroni, B. and others},
+  journal={Language Resources and Evaluation},
+  volume={56},
+  pages={621--650},
+  year={2022},
+  publisher={Springer},
+  doi={10.1007/s10579-021-09571-3}
+}
+
+
+
 
